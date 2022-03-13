@@ -9,4 +9,4 @@ The majority of our projects are written in PHP for the server software [PocketM
 A variety of our projects however are written in JavaScript for our [discord.js](https://github.com/discordjs/discord.js) bots, our [API](https://api.hyperlandsmc.net), our load balancing algorithms and our custom database.
 
 ## Become a part of our team
-If you would like to become a part of our team you can join our Discord server [here](https://discord.gg/hyperlands). Check our available positions by navigating through our channels or by checking out our FAQ.
+If you would like to become a part of our team you can join our Discord server [here](https://discord.gg/hyperlands). View our available positions by navigating through our channels or by checking out our FAQ.
